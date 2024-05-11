@@ -1,10 +1,9 @@
 # Maintainer: Barnabé di Kartola <barnabedikartola@gmail.com>
 
-pkgname=biglinux-package-template
-pkgdesc="Package template for biglinux"
-# depends=('')
-# makedepends=('')
-# conflicts=('')
+pkgname=big-wmaker-config
+pkgdesc="Package configuration Desktop Window Maker"
+depends=('big-skel')
+conflicts=('biglinux-skel-gnome' 'bashrc-manjaro')
 pkgver=$(date +%y.%m.%d)
 pkgrel=$(date +%H%M)
 arch=('any')
