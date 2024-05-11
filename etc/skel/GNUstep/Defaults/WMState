@@ -190,26 +190,26 @@
           },
           {
             Forced = No;
-            Name = dolphin.dolphin;
-            DropCommand = "dolphin %d";
+            Name = thunar.thunar;
+            DropCommand = "thunar %d";
             BuggyApplication = No;
             AutoLaunch = No;
             Position = "0,2";
             Lock = Yes;
-            PasteCommand = "dolphin %s";
-            Command = dolphin;
+            PasteCommand = "thunar %s";
+            Command = thunar;
             Omnipresent = No;
           },
           {
             Forced = No;
-            Name = kate.kate;
-            DropCommand = "kate %d";
+            Name = mousepad.mousepad;
+            DropCommand = "mousepad %d";
             BuggyApplication = No;
             AutoLaunch = No;
             Position = "0,4";
             Lock = Yes;
-            PasteCommand = "kate %s";
-            Command = kate;
+            PasteCommand = "mousepad %s";
+            Command = mousepad;
             Omnipresent = No;
           },
           {
@@ -226,14 +226,14 @@
           },
           {
             Forced = No;
-            Name = kcalc.kcalc;
-            DropCommand = "kcalc %d";
+            Name = galculator.galculator;
+            DropCommand = "galculator %d";
             BuggyApplication = No;
             AutoLaunch = No;
             Position = "0,3";
             Lock = Yes;
-            PasteCommand = "kcalc %s";
-            Command = kcalc;
+            PasteCommand = "galculator %s";
+            Command = galculator;
             Omnipresent = No;
           }
         );
@@ -241,7 +241,7 @@
         AutoAttractIcons = No;
         Lowered = Yes;
       };
-      Name = "\303\201rea de Trabalho 1";
+      Name = "Desktop 1";
     },
     {
       Clip = {
@@ -252,7 +252,7 @@
         AutoAttractIcons = No;
         Lowered = Yes;
       };
-      Name = "\303\201rea de Trabalho 2";
+      Name = "Desktop 2";
     }
   );
 }

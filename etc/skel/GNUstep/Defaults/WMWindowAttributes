@@ -1,5 +1,5 @@
 {
-  dolphin.dolphin = {
+  thunar.thunar = {
     AlwaysUserIcon = Yes;
     Icon = "file-manager.png";
   };
@@ -9,13 +9,13 @@
   firefox.Firefox = {
     Icon = "brave.brave.xpm";
   };
-  kcalc.kcalc = {
+  mousepad.mousepad = {
+    AlwaysUserIcon = Yes;
+    Icon = "kedit.png";
+  };
+  galculator.galculator = {
     AlwaysUserIcon = Yes;
     Icon = "accessories-calculator.png";
-  };
-  kate.kate = {
-    AlwaysUserIcon = Yes;
-    Icon = kedit.png;
   };
   "pamac-manager.Pamac-manager" = {
     Icon = "pamac-manager.Pamac-manager.xpm";
