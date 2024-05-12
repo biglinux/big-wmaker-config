@@ -3,7 +3,7 @@ Type = Package
 Operation = Install
 Operation = Upgrade
 Target = windowmaker
-Target = biglinux-skel-wmaker
+Target = big-wmaker-config
 
 [Action]
 Description = BigLinux set theme default windowmaker

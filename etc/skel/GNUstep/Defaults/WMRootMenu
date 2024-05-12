@@ -147,7 +147,7 @@
     ("Reiniciar Window Maker", RESTART),
     ("Sair do Window Maker", EXIT)
   ),
-  (Terminal, SHORTCUT, "Control+Mod1+t", EXEC, xterm),
+  (Terminal, SHORTCUT, "Control+Mod1+t", EXEC, xfce4-terminal),
   ("Finalizar Xkill", SHORTCUT, "Control+Mod1+Escape", EXEC, xkill),
   (Executar..., EXEC, "%A(Executar, digite o comando:)"),
   (Logout, EXIT),
