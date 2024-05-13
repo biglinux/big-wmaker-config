@@ -1,21 +1,21 @@
 {
-  thunar.thunar = {
+  thunar.Thunar = {
     AlwaysUserIcon = Yes;
-    Icon = "file-manager.png";
+    Icon = thunar.svg;
   };
-  soffice.Soffice = {
-    Icon = "soffice.Soffice.xpm";
+  office.Office = {
+    Icon = office.svg;
   };
-  firefox.Firefox = {
-    Icon = "brave.brave.xpm";
+  brave.Brave = {
+    Icon = brave.svg;
   };
-  mousepad.mousepad = {
+  mousepad.Mousepad = {
     AlwaysUserIcon = Yes;
-    Icon = "kedit.png";
+    Icon = editor.svg;
   };
-  galculator.galculator = {
+  galculator.Galculator = {
     AlwaysUserIcon = Yes;
-    Icon = "accessories-calculator.png";
+    Icon = "calc.svg";
   };
   "pamac-manager.Pamac-manager" = {
     Icon = "pamac-manager.Pamac-manager.xpm";
